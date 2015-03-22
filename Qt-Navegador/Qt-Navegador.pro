@@ -17,7 +17,8 @@ SOURCES += main.cpp\
     webbrowser.cpp
 
 HEADERS  += mainwindow.h \
-    webbrowser.h
+    webbrowser.h \
+    web.h
 
 RESOURCES += \
     resources.qrc
